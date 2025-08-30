@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/0009-palindrome-number) |
 | [1013-fibonacci-number](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/1013-fibonacci-number) |
+| [2481-strictly-palindromic-number](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/2481-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+## Two Pointers
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/2481-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
