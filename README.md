@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
 |  |
@@ -35,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/2481-strictly-palindromic-number) |
+## Hash Table
+|  |
+| ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+## String
+|  |
+| ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 <!---LeetCode Topics End-->
