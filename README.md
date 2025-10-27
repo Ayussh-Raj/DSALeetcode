@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
