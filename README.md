@@ -1,64 +1,39 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0009-palindrome-number](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/0009-palindrome-number) |
-| [1013-fibonacci-number](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/1013-fibonacci-number) |
-| [2481-strictly-palindromic-number](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/2481-strictly-palindromic-number) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/0042-trapping-rain-water) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [1013-fibonacci-number](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/1013-fibonacci-number) |
-## Recursion
-|  |
-| ------- |
-| [1013-fibonacci-number](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/1013-fibonacci-number) |
-## Memoization
-|  |
-| ------- |
-| [1013-fibonacci-number](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/1013-fibonacci-number) |
-## Array
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/0042-trapping-rain-water) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
-| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
-## Binary Search
-|  |
-| ------- |
-| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
-## Two Pointers
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/0042-trapping-rain-water) |
-| [2481-strictly-palindromic-number](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/2481-strictly-palindromic-number) |
-## Brainteaser
-|  |
-| ------- |
-| [2481-strictly-palindromic-number](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/2481-strictly-palindromic-number) |
-## Hash Table
-|  |
-| ------- |
-| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
-## String
-|  |
-| ------- |
-| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
-## Sorting
-|  |
-| ------- |
-| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
-## Stack
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/0042-trapping-rain-water) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/0042-trapping-rain-water) |
-<!---LeetCode Topics End-->
+# Java DSA Practice – Ayush Raj
+
+This repository contains my personal practice solutions for Data Structures and Algorithms (DSA) in **Java**.  
+These problems are solved from platforms like LeetCode and include implementations of arrays, strings, hashing, two pointers, recursion, linked lists, and other fundamental concepts.
+
+---
+
+## 📌 What this repository contains
+- Java programs for common DSA problems
+- Clean and readable code
+- Logical approach and optimized solutions wherever possible
+- Regular updates as I practice new problems
+
+---
+
+## ✅ Tech Used
+- **Java**
+- Basic OOP concepts
+- Time & space complexity understanding
+
+---
+
+## 🎯 Purpose
+The goal of this repository is to:
+- Strengthen my Java programming skills  
+- Build strong foundational DSA knowledge  
+- Practice for technical interviews  
+- Maintain consistency in problem-solving  
+
+---
+
+## 📎 Note
+This repository is part of my hands-on programming practice in Java and is submitted as evidence of coding proficiency for Cognizant campus hiring.
+
+---
+
+### 👤 Author  
+**Ayush Raj**  
+B.Tech CSE Final Year Student  
