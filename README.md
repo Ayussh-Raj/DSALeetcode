@@ -1,7 +1,7 @@
 # Java DSA Practice – Ayush Raj
 
 This repository contains my personal practice solutions for Data Structures and Algorithms (DSA) in **Java**.  
-These problems are solved from platforms like LeetCode and include implementations of arrays, strings, hashing, two pointers, recursion, linked lists, and other fundamental concepts.
+These problems are solved from platforms like LeetCode and include implementations of arrays, strings, hashing, two pointers and other fundamental concepts.
 
 ---
 
@@ -15,7 +15,6 @@ These problems are solved from platforms like LeetCode and include implementatio
 
 ## ✅ Tech Used
 - **Java**
-- Basic OOP concepts
 - Time & space complexity understanding
 
 ---
