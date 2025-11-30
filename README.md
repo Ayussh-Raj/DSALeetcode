@@ -36,3 +36,11 @@ This repository is part of my hands-on programming practice in Java and is submi
 ### 👤 Author  
 **Ayush Raj**  
 B.Tech CSE Final Year Student  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/0175-combine-two-tables) |
+<!---LeetCode Topics End-->
