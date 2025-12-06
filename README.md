@@ -46,6 +46,7 @@ B.Tech CSE Final Year Student
 | [0176-second-highest-salary](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/0176-second-highest-salary) |
 | [0577-employee-bonus](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/0584-find-customer-referee) |
+| [1068-product-sales-analysis-i](https://github.com/Ayussh-Raj/DSALeetcode/tree/master/1068-product-sales-analysis-i) |
 ## Array
 |  |
 | ------- |
